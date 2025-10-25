@@ -1,0 +1,7 @@
+body {
+    background-image: url('assets/images/books-background.jpg'); /* Replace with the actual path to the image */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: #fff; /* Adjust text color for better visibility */
+}
